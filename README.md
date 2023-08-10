@@ -11,7 +11,11 @@ https://youtu.be/hQHW_CuGG2A
 Install
 ___________________________________________________________________________________________________________________
 Open a project or solution in Visual Studio
+
 Locate Durak download location
+
 Open Durak/DurakGame.sln
+
 In solution explorer Set DurakClient as start startup project
+
 Run game
